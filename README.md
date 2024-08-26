@@ -3,8 +3,8 @@
 What is it? A plugin to provide bindings to query via the dico client (i) a local DICT
 server or (ii) GNU's [DICT server](dicoweb.gnu.org.ua).
 
-
-## Dependencies
+[!NOTE] See (dico.nvim)(https:://github.com/metaporia/dico.nvim) for updated
+version of dico-vim. This version is no longer maintained.
 
 * ideally (there is a remote default), a local DICT server on the standard port
   2628 (see [dicod-docker](https://gitlab.com/metaporia/dicod-docker) for
